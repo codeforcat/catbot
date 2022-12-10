@@ -12,6 +12,6 @@
   "dependencies": {
     "bot-express": "^0.5.77",
     "dotenv": "^6.2.0",
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
